@@ -1,0 +1,227 @@
+
+@media (max-width: 575.98px) { 
+    .pera1 {
+        font-size: 45px;
+    }
+    .zero4 {
+         width: unset;
+    }
+    .text1 {
+        padding: 0px 8px;
+    }
+    .text2{
+        padding: 0 15px;
+    }
+    .zero5 {
+        width: 100%;
+        padding: 10px 20px;
+    }
+    .pera5 {
+        margin-right: 0px;
+    }
+    .pera6 {
+        margin-left: 50px;
+    }
+    .text3 {
+        margin-left: 0px;
+    }
+    .img-div {
+        margin-left: 0px;
+    }
+    .pera7 {
+        margin-left: 0px;
+    }
+    .zero6 {
+        width:unset;
+        padding: 31px 0px;
+    }
+    .review-text1 {
+        padding: 46px 0px;
+    }
+    .review {
+        padding-bottom: 30px;
+    }
+    .zero8 {
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .text5 {
+        padding: 0 5px;
+        margin-top: 30px;
+    }
+    .text6 {
+        padding: 0 5px;
+    }
+    .formcontrol {
+     margin-left: 0px;
+     width: 100%;
+    }
+    .formcontrol1 {
+        width: 100%;
+    }
+    .text7 {
+     margin-left: 0px;
+        margin-top: 15px;
+    }
+    select {
+        width: 100%
+    }
+    .middler{
+        text-align: center;
+    }
+    .form-button {
+        margin-left: 0;
+    }
+    .pera8 {
+        font-size: 30px;
+        margin-top: 25px;
+    }
+    .text-9 {
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .text-10 {
+        font-size: 15px;
+    }
+    .text-11{
+        font-size: 15px;
+    }
+    .text-12{
+        font-size: 15px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .pera1 {
+        font-size: 50px;
+    }
+    .zero4 {
+        width: 100%;
+    }
+    .zero6 {
+        width: 100%;
+        padding: 31px 10px;
+    }
+    .formcontrol {
+        margin-left: 0px;
+        width: 100%;
+       }
+       .formcontrol1 {
+           width: 100%;
+       }
+       .text7 {
+        margin-left: 0px;
+           margin-top: 15px;
+       }
+       select {
+        width: 100%;
+    }
+    .pera8 {
+        margin-top: 28px;
+    }
+       
+ }
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .pera1 {
+        font-size: 55px;
+    }
+    .zero4 {
+        width: 100%;
+        padding: 60px 27px;
+    }
+    .pera4 {
+        font-size: 30px;
+    }
+    .zero5 {
+        padding: 10px 25px;
+    }
+    .pera6 {
+        margin-left: 75px;
+    }
+    .img-div {
+     margin-left: 0px;
+    }
+    .text3 {
+        margin-left: 0px;
+        font-size: 12px;
+    }
+    .pera5{
+        font-size: 15px;
+    }
+    .pera6 {
+        font-size: 15px;
+    }
+    .pera7 {
+        font-size: 14px;
+        margin-left: unset;
+    }
+    .olive {
+        font-size: 15px;
+    }
+    .greek {
+        font-size: 15px;
+    }
+    .haloumi {
+        font-size: 15px;
+    }
+    .fried{
+        font-size: 15px;
+        margin-left: 0px;
+
+    }
+    .pastitsio {
+        font-size: 15px;
+    }
+    .review {
+        padding-bottom: 30px;
+    }
+    .zero6 {
+        width: unset;
+        padding: 31px 50px;
+    }
+    .review-text1 {
+        padding: 45px 0px;
+    }
+    .zero7 {
+        text-align: center;
+    }
+    .zero8 {
+        margin-left: 0px;
+        text-align: center;
+    }
+    .pera8 {
+        margin-top: 33px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .pera1 {
+        font-size: 70px;
+    }
+    .zero5 {
+        padding: 10px 25px;
+    }
+    .img-div {
+        margin-left: 0;
+    }
+    .text3 {
+        margin-left: 0px;
+    }
+    .pera7 {
+        margin-left: -3px;
+    }
+    .greek {
+        margin-right: 47px;
+    }
+    .fried {
+        margin-left: 0px;
+    }
+    .haloumi {
+        margin-right: 70px;
+    }
+    .zero6 {
+        width: unset;
+    
+ }
+}
